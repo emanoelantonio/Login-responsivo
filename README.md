@@ -1,2 +1,2 @@
-# Login-Rerponsivo
- página de login com responsividade agradável
+# Login-responsivo
+ página de login responsivo e agradável
