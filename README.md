@@ -1,10 +1,33 @@
 # Login-responsivo
-<a href="https://github.com/emanoelantonio/Proffy/master/LICENSE.md">
-<img src="https://img.shields.io/static/v1?label=License&message=MIT&color=1A1818&style=for-the-badge&logo=github"/></a>
+![Banner](https://github.com/emanoelantonio/Login-responsivo/blob/main/img/banner.png)
 
-Já criei muitas contas em vários sites, e tudo começa pela página de login e cadastro. Sempre achei as páginas estáticas sem graça e me incomodava enquanto desenvolvedor. Então, resolvi aprender um pouco mais de **CSS** e criar algo mais agradável para quem acaba de conhecer o site. Confesso que foi um desafio, mas que gostei bastante de buscar soluções para os problemas encontrados.
+Já criei muitas contas em vários sites, e tudo começa pelo formulário de login e cadastro. Sempre achei as páginas estáticas sem graça, me incomodava enquanto desenvolvedor. Então, resolvi aprender um pouco mais de **CSS** e criar algo mais agradável para quem acaba de conhecer o site. Confesso que foi um desafio, mas que gostei bastante de buscar soluções para os problemas encontrados.
 
-### Tecnologias usadas 
+### Conteúdo
+
+* [Guia](#Guia)
+  - [Pré-requisitos](#Pré-requisitos)
+* [Requirementos](#Requirementos)
+  * [Servidor](#Servidor)
+* [Tecnologias usadas](#Tecnologias usadas)
+* [Issues](#Issues-)
+  * [Reportando](#Reportando)
+* [Contribuindo](#Contribuindo)
+* [License](#License-)
+* [Author](#Author)
+
+### Guia
+
+#### 📑 Características:
+
+- [x] Formulário Login;
+- [x] Responsividade;
+- [x] Formulário Cadastro;
+- [x] Imagens Free ;
+- [ ] Favicon Dinâmico;
+- [ ] Modo Noite;
+
+#### Tecnologias usadas 
 
 - [HTML](https://www.w3schools.com/html/) ;
 - [CSS](https://www.w3schools.com/css/default.asp) ;
@@ -51,5 +74,5 @@ The license for this project is MIT, earn more about the <a href="https://github
 
  ##### " To be continue... " 
 
- <a href="https://www.linkedin.com/in/emanoel-antonio-silva/"><img align="center" src="https://img.shields.io/static/v1?label=&message=Linkedin&color=3D008A&style=for-the-badge&logo=linkedin"/></a>
+ <a href="https://www.linkedin.com/in/emanoel-antonio-silva/"><img align="center" src="https://img.shields.io/static/v1?label=&message=Linkedin&color=3D008A&style=for-the-badge&logo=linkedin"/></a><a href="https://github.com/emanoelantonio/Proffy/master/LICENSE.md"><img src="https://img.shields.io/static/v1?label=License&message=MIT&color=1A1818&style=for-the-badge&logo=github"/></a>
 
