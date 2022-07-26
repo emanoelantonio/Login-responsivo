@@ -2,14 +2,15 @@
 ![Banner](https://github.com/emanoelantonio/Login-responsivo/blob/main/img/banner.png)
 
 Já criei muitas contas em vários sites, e tudo começa pelo formulário de login e cadastro. Sempre achei as páginas estáticas sem graça, me incomodava enquanto desenvolvedor. Então, resolvi aprender um pouco mais de **CSS** e criar algo mais agradável para quem acaba de conhecer o site. Confesso que foi um desafio, mas que gostei bastante de buscar soluções para os problemas encontrados.
-
+<br /> 
+<a href="https://github.com/emanoelantonio/Proffy/master/LICENSE.md"><img src="https://img.shields.io/static/v1?label=License&message=MIT&color=1A1818&style=for-the-badge&logo=github"/></a>
 ### Conteúdo
 
 * [Guia](#Guia)
   - [Pré-requisitos](#Pré-requisitos)
 * [Requirementos](#Requirementos)
   * [Servidor](#Servidor)
-* [Tecnologias usadas](#Tecnologias usadas)
+* [Tecnologias usadas](#Tecnologiasusadas)
 * [Issues](#Issues-)
   * [Reportando](#Reportando)
 * [Contribuindo](#Contribuindo)
@@ -41,13 +42,12 @@ Já criei muitas contas em vários sites, e tudo começa pelo formulário de log
 
 #### 🗄️ Servidor :
 
+Clone este repositório
 ```
- Clone este repositório
-
  $ git clone <https://github.com/emanoelantonio/Login-responsivo>
-
+```
  Acesso da pasta / cmd terminal
-
+```
  $ cd Login-responsivo
 ```
 
@@ -69,10 +69,10 @@ The license for this project is MIT, earn more about the <a href="https://github
 ### 🧠 Author :
 
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/60781248?s=460&u=43dbba3483d275c3d8964df24a8f5139f53dc282&v=4" width="100px;" alt=""/>
- <br /> 
+ 
  <sub>Emanoel Antonio 👨🏻‍💻</sub>
-
+ 
  ##### " To be continue... " 
-
- <a href="https://www.linkedin.com/in/emanoel-antonio-silva/"><img align="center" src="https://img.shields.io/static/v1?label=&message=Linkedin&color=3D008A&style=for-the-badge&logo=linkedin"/></a><a href="https://github.com/emanoelantonio/Proffy/master/LICENSE.md"><img src="https://img.shields.io/static/v1?label=License&message=MIT&color=1A1818&style=for-the-badge&logo=github"/></a>
+ 
+ <a href="https://www.linkedin.com/in/emanoel-antonio-silva/"><img align="center" src="https://img.shields.io/static/v1?label=&message=Linkedin&color=3D008A&style=for-the-badge&logo=linkedin"/></a>
 
